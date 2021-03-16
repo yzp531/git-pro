@@ -1,2 +1,0 @@
-# git-pro
-git-pro
